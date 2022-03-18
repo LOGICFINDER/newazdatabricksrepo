@@ -1,9 +1,0 @@
-{
-	"name": "adfgithubint01",
-	"location": "westus2",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "f0d7eb1c-6de0-4c76-8195-7c0769ed6548",
-		"tenantId": "513b16dc-c579-4da0-8e46-c52de6dfb3f9"
-	}
-}
